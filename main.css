@@ -1,0 +1,45 @@
+body{
+	background-color: #dee5e8;
+}
+
+header{
+	background-color: #0d47a1;
+}
+
+footer {
+	background-color: #0d47a1;
+}
+
+.contenedor{
+	max-width: 1024px;
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.side-bar{
+	width: 250px;
+	margin: 0 20px 0 0;
+	background-color: #9aca40;
+	display: inline-block;
+	vertical-align: top;
+	min-height: 100%;
+}
+
+.side-bar a {
+	display: block;
+	padding: 10px;
+}
+
+.content{
+	width: 734px;
+	margin: 0 0 0 20px;
+	background-color: #42a5f5;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.content p{
+	padding: 10px 20px;
+	text-align: justify;
+}
